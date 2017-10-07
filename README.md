@@ -7,7 +7,7 @@ It is made using python as server a language,HTML and CSS.
 If you want to run this program you need to do the folling:
 
 ### Step 1:
-You need to clone my Github repository or download it as zip file from the and unyip the files.
+You need to clone my Github repository or download it as zip file from the and unzip the files.
 
 ### Step 2:
 Download Python from  [HERE](https://www.python.org/download/releases/2.7/).
